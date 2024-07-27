@@ -15,7 +15,7 @@ This is a furniture web site for the IS243 "Web Design & Development 1" course a
 2. Open the main webpage directly on ur browser.. the path is: (DDK->src->static)
 
 - also there is a login page is u want to use it:
-- 
+ 
 **username** : mohamed  or habib  or ali
 
 **pass**: m123  or h123  or a123
